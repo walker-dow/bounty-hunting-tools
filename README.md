@@ -2,7 +2,7 @@
 Tools for bug/vulnerability hunting
 
 ## General Process/Automation:
- - startattach.sh
+ - startattack.sh
 
 ## DNS Enumerattion:
  - dns-xfer.py
